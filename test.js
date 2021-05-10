@@ -2,6 +2,8 @@
 
 
 
-function forLoop(){
-  for(let i = 0; i<500; i++)
+function forLoop(n){
+  for(let i = 0; i<n; i++){
+    
+  }
 }
